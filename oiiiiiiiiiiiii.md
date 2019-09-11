@@ -4,7 +4,6 @@ logo: ''
 navigation:
 - link: Yeah
   link_text: Yeah
-published: false
 
 ---
 helllllllllllllloooooooooooooo
